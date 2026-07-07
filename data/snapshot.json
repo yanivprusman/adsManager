@@ -1,0 +1,117 @@
+{
+  "fetchedAt": "2026-07-07T19:30:00+03:00",
+  "source": "meta-ads MCP (Marketing API)",
+  "account": {
+    "id": "1243794037477701",
+    "name": "יניב פרוסמן",
+    "currency": "ILS",
+    "pageId": "1245961251929982",
+    "pageName": "atar24",
+    "linkDomain": "atar24.prod.ya-niv.com",
+    "daily": [
+      { "date": "2026-07-06", "spend": 49.0, "impressions": 9097, "clicks": 101, "ctr": 1.11, "cpc": 0.49, "cpm": 5.39, "reach": 4352, "frequency": 2.09 },
+      { "date": "2026-07-07", "spend": 108.54, "impressions": 9345, "clicks": 180, "ctr": 1.93, "cpc": 0.6, "cpm": 11.61, "reach": 6228, "frequency": 1.5 }
+    ]
+  },
+  "campaigns": [
+    {
+      "id": "120249129758660026",
+      "name": "atar24 — Traffic — אתר לעסק תוך 24 שעות",
+      "status": "ACTIVE",
+      "objective": "LINK_CLICKS",
+      "createdTime": "2026-07-05",
+      "startTime": "2026-07-05T04:59:21+03:00",
+      "dailyBudget": 150,
+      "lifetimeBudget": null,
+      "metrics": { "spend": 157.54, "impressions": 18442, "clicks": 281, "ctr": 1.52, "cpc": 0.56, "cpm": 8.54, "reach": 10025, "frequency": 1.84 }
+    }
+  ],
+  "adsets": [
+    {
+      "id": "120249129760970026",
+      "campaignId": "120249129758660026",
+      "name": "IL · בעלי עסקים · 25-60",
+      "status": "ACTIVE",
+      "createdTime": "2026-07-05",
+      "metrics": { "spend": 148.05, "impressions": 17656, "clicks": 255, "ctr": 1.44, "cpc": 0.58, "cpm": 8.39, "reach": 9253, "frequency": 1.91 }
+    },
+    {
+      "id": "120249195629790026",
+      "campaignId": "120249129758660026",
+      "name": "IL · proof-first · 25-60",
+      "status": "ACTIVE",
+      "createdTime": "2026-07-07",
+      "metrics": { "spend": 9.49, "impressions": 786, "clicks": 26, "ctr": 3.31, "cpc": 0.37, "cpm": 12.07, "reach": 734, "frequency": 1.07 }
+    }
+  ],
+  "ads": [
+    {
+      "id": "120249174064680026",
+      "adsetId": "120249129760970026",
+      "campaignId": "120249129758660026",
+      "creativeId": "1894642141214935",
+      "name": "atar24 — אתר תוך 24 שעות",
+      "status": "ACTIVE",
+      "createdTime": "2026-07-06",
+      "metrics": { "spend": 137.74, "impressions": 17093, "clicks": 218, "ctr": 1.28, "cpc": 0.63, "cpm": 8.06, "reach": 8867, "frequency": 1.93 },
+      "daily": [
+        { "date": "2026-07-06", "spend": 49.0, "impressions": 9097, "clicks": 101, "ctr": 1.11, "cpc": 0.49, "reach": 4352 },
+        { "date": "2026-07-07", "spend": 88.74, "impressions": 7996, "clicks": 117, "ctr": 1.46, "cpc": 0.76, "reach": 5119 }
+      ]
+    },
+    {
+      "id": "120249187606800026",
+      "adsetId": "120249129760970026",
+      "campaignId": "120249129758660026",
+      "creativeId": "1550721706536659",
+      "name": "atar24 — דוגמאות (proof-first)",
+      "status": "ACTIVE",
+      "createdTime": "2026-07-07",
+      "metrics": { "spend": 10.31, "impressions": 563, "clicks": 37, "ctr": 6.57, "cpc": 0.28, "cpm": 18.31, "reach": 478, "frequency": 1.18 },
+      "daily": [
+        { "date": "2026-07-07", "spend": 10.31, "impressions": 563, "clicks": 37, "ctr": 6.57, "cpc": 0.28, "reach": 478 }
+      ]
+    },
+    {
+      "id": "120249195643520026",
+      "adsetId": "120249195629790026",
+      "campaignId": "120249129758660026",
+      "creativeId": "1550721706536659",
+      "name": "atar24 — דוגמאות v2 (own adset)",
+      "status": "ACTIVE",
+      "createdTime": "2026-07-07",
+      "metrics": { "spend": 9.49, "impressions": 786, "clicks": 26, "ctr": 3.31, "cpc": 0.37, "cpm": 12.07, "reach": 734, "frequency": 1.07 },
+      "daily": [
+        { "date": "2026-07-07", "spend": 9.49, "impressions": 786, "clicks": 26, "ctr": 3.31, "cpc": 0.37, "reach": 734 }
+      ]
+    }
+  ],
+  "creatives": [
+    {
+      "id": "1894642141214935",
+      "name": "atar24 — cover link creative 2026-07-04",
+      "status": "ACTIVE",
+      "body": "יש לך עסק — אבל אין לך אתר? 😮\n\nאנחנו בונים לך אתר תדמית מקצועי תוך 24 שעות. רואים אותו מוכן וחי — ורק אם אהבתם, משלמים ₪499. לא אהבתם? לא שילמתם. בלי מקדמה ובלי התחייבות.\n\n✅ עיצוב אישי (לא תבנית) ✅ מותאם לנייד + כפתור וואטסאפ ✅ שנה ראשונה של אחסון עלינו",
+      "title": "אתר מקצועי לעסק שלך תוך 24 שעות",
+      "callToAction": "LEARN_MORE",
+      "imageHash": "1016f0440c4119756b9d9848b59dda58",
+      "image": "/creatives/1894642141214935.png",
+      "imageWidth": 1200,
+      "imageHeight": 628,
+      "postId": "1245961251929982_122094569451394167"
+    },
+    {
+      "id": "1550721706536659",
+      "name": "atar24 — proof-first creative (3 demos) 2026-07-06",
+      "status": "ACTIVE",
+      "body": "ככה נראים אתרים שאנחנו בונים תוך 24 שעות 👆\n\nבלי מקדמה ובלי סיכון: רואים את האתר של העסק שלכם מוכן וחי — ורק אם אהבתם, משלמים ₪499. לא אהבתם? לא שילמתם.\n\nהיכנסו לראות את הדוגמאות מבפנים 👇",
+      "title": "תראו דוגמאות — ואז תחליטו",
+      "callToAction": "LEARN_MORE",
+      "imageHash": "260442178987e4ebd790fda49308746a",
+      "image": "/creatives/1550721706536659.png",
+      "imageWidth": 1200,
+      "imageHeight": 628,
+      "postId": "1245961251929982_122096215581394167"
+    }
+  ]
+}
